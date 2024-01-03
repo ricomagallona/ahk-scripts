@@ -1,2 +1,2 @@
 # ahk-scripts
-Ahk scripts for life improvement
+Ahk scripts for better quality of life.
